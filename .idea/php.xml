@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/composer" />
+      <path value="$PROJECT_DIR$/AppartAudit/vendor/doctrine/collections" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
